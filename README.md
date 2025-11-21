@@ -275,15 +275,5 @@ Select Operation:
 - Role-based access control (Management/Professor/Student)
 - Department-based employee permissions
 
-## ⚠️ Known Limitations
 
-- Console-based interface only (no GUI)
-- Passwords stored in plain text (should implement hashing)
-- SQL queries use string concatenation (vulnerable to injection)
-- No session management or concurrent user support
-- Limited error handling and validation
-
-
----
-
-**Note**: This system is designed for learning purposes. For production use, implement proper security measures, input validation, and error handling.
+**Note**: This system is designed for learning purposes.
